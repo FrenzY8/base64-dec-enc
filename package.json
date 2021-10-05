@@ -1,0 +1,18 @@
+{
+  "name": "base64 decoder and encoder",
+  "version": "1.0.0",
+  "description": "base64 base64 base64",
+  "main": "base64.js",
+  "scripts": {
+    "test": "node base64.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "FrenzY8"
+  },
+  "keywords": [
+    "base64"
+  ],
+  "author": "FrenzySG",
+  "license": "MIT"
+}
